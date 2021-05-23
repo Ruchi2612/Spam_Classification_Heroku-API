@@ -1,0 +1,1 @@
+web: gunicorn SpamClassification_App:app
